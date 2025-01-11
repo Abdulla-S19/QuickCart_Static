@@ -17,7 +17,7 @@ function Home() {
         setElectronicsItems([
             { id: 1, name: 'Headphones', price: '$100', imageUrl: 'https://rukminim2.flixcart.com/image/612/612/ksw4ccw0/headphone/e/b/0/rockerz-450-boat-original-imag6cqpa23frzap.jpeg?q=70', category: 'Electronics' },
             { id: 2, name: 'Smartphone', price: '$500', imageUrl: 'https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/w/z/u/-original-imagtxvtmxpagdpn.jpeg?q=70', category: 'Electronics' },
-            { id: 3, name: 'Go-pro', price: '$1000', imageUrl: 'https://rukminim2.flixcart.com/image/312/312/xif0q/sports-action-camera/y/r/u/-original-imahyxtgj2g8uqvn.jpeg?q=70', category: 'Electronics' },
+            { id: 3, name: 'Water Purifier', price: '$1000', imageUrl: 'https://rukminim2.flixcart.com/image/612/612/xif0q/water-purifier/m/6/a/copper-audi-12-ltr-water-filter-aqua-fresh-original-imagswzwms96dezs.jpeg?q=70', category: 'Electronics' },
         ]);
     }, []);
 
