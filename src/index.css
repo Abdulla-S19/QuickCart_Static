@@ -1,0 +1,56 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+
+button {
+  font-size: 0.9rem;
+  width: auto;
+}
+
+button + button {
+  margin-left: 10px;
+}
+
+.text-center p {
+  font-size: 1.1rem;
+  color: #555;
+}
+
+.alert {
+  padding: 20px;
+  text-align: center;
+}
+
+.alert .btn {
+  margin-top: 15px;
+}
+
+
+
+.container {
+  max-width: 1200px;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  .wishlist-item-card {
+    padding: 15px;
+  }
+
+  .wishlist-item-image {
+    height: 150px; /* Adjusted for smaller screens */
+  }
+
+  h2 {
+    font-size: 1.8rem;
+  }
+}
+
